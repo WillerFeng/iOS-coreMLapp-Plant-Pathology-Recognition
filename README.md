@@ -1,5 +1,6 @@
 
 <img src="./appicon.png"  height="400" width="400">
+
 # Plant Pathology Recognition
 
 ### 简介
@@ -30,7 +31,7 @@ input.type.imageType.width = 512
 采用conv 1*1 加载层参数替代 fc 层
 
 ### iOS上机运行测试
-<img src="./screen_shot.png"  height="1334" width="750">
+<img src="./screen shot.png"  height="1334" width="750">
 
 |Model|Size|Accurary|Average-run-time|
 |:-:|:-:|:-:|:-:|
