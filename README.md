@@ -31,7 +31,7 @@ input.type.imageType.width = 512
 采用conv 1*1 加载层参数替代 fc 层
 
 ### iOS上机运行测试
-<img src="./screen shot.png"  height="1334" width="750">
+<img src="./screen shot.png"  height="667" width="325">
 
 |Model|Size|Accurary|Average-run-time|
 |:-:|:-:|:-:|:-:|
@@ -40,5 +40,5 @@ input.type.imageType.width = 512
 |GhostNet float16|7.9MB | 0.957|82.9ms|
 |GhostNet int8   |4.0MB | 0.952|113.3ms|
 |GhostNet int4   |2.1MB | 0.829|121.2ms|
-> Device : iPhone 7
+> Device : iPhone 7  
 > Platform : iOS 13.0
