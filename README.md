@@ -31,7 +31,7 @@ input.type.imageType.width = 512
 采用conv 1*1 加载层参数替代 fc 层
 
 ### iOS上机运行测试
-<img src="./screen shot.png"  height="667" width="325">
+<img src="./screen shot.png"  height="667" width="375">
 
 |Model|Size|Accurary|Average-run-time|
 |:-:|:-:|:-:|:-:|
