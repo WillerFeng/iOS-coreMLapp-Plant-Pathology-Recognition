@@ -1,5 +1,5 @@
 
-<img src="https://github.com/willer-sjf/iOS-coreMLapp-Plant-Pathology-Recognition/master/appicon.png"  height="400" width="400">
+<img src="https://github.com/willer-sjf/iOS-coreMLapp-Plant-Pathology-Recognition/blob/master/appicon.png"  height="400" width="400">
 
 # Plant Pathology Recognition
 
@@ -31,7 +31,7 @@ input.type.imageType.width = 512
 采用conv 1*1 加载层参数替代 fc 层
 
 ### iOS上机运行测试
-<img src="https://github.com/willer-sjf/iOS-coreMLapp-Plant-Pathology-Recognition/master/screen shot.png"  height="667" width="375">
+<img src="https://github.com/willer-sjf/iOS-coreMLapp-Plant-Pathology-Recognition/blob/master/screen shot.png"  height="667" width="375">
 
 |Model|Size|Accurary|Average-run-time|
 |:-:|:-:|:-:|:-:|
